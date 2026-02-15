@@ -2,4 +2,7 @@ streamlit
 pandas
 numpy
 joblib
+scikit-learn
+lightgbm
 yarl
+scipy
